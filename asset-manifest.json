@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/real-estate-v1/static/js/main.ee7cdb26.js",
-    "static/media/home-6.jpg": "/real-estate-v1/static/media/home-6.63218ca381a6e92721a1.jpg",
-    "static/media/home-4.jpg": "/real-estate-v1/static/media/home-4.1a8ae66b700edd88c9ab.jpg",
-    "static/media/home-3.jpg": "/real-estate-v1/static/media/home-3.d311625b01a1f84fc601.jpg",
-    "static/media/home-2.jpg": "/real-estate-v1/static/media/home-2.fbdc84a9bc7c112515eb.jpg",
-    "static/media/home-1.jpg": "/real-estate-v1/static/media/home-1.d357c48fa6043c824137.jpg",
-    "static/media/interior-2.jpg": "/real-estate-v1/static/media/interior-2.f3054898a147ccef9fd9.jpg",
-    "static/media/home-5.jpg": "/real-estate-v1/static/media/home-5.0d737bb3e0af36e2b185.jpg",
-    "static/media/home-7.jpg": "/real-estate-v1/static/media/home-7.c6d2a0c3546065e0b13f.jpg",
-    "static/media/home-9.jpg": "/real-estate-v1/static/media/home-9.d8b8c21479bd0d764ad6.jpg",
-    "static/media/home-8.jpg": "/real-estate-v1/static/media/home-8.1a4a18f39be25cc3a009.jpg",
-    "static/media/interior-3.jpg": "/real-estate-v1/static/media/interior-3.35b8d41bebc839e17f8d.jpg",
-    "static/media/interior-1.jpg": "/real-estate-v1/static/media/interior-1.7cc155ebf3c653edf29b.jpg",
-    "index.html": "/real-estate-v1/index.html",
-    "main.ee7cdb26.js.map": "/real-estate-v1/static/js/main.ee7cdb26.js.map"
+    "main.js": "/real-estate-homes/static/js/main.b3b33635.js",
+    "static/media/home-6.jpg": "/real-estate-homes/static/media/home-6.63218ca381a6e92721a1.jpg",
+    "static/media/home-4.jpg": "/real-estate-homes/static/media/home-4.1a8ae66b700edd88c9ab.jpg",
+    "static/media/home-3.jpg": "/real-estate-homes/static/media/home-3.d311625b01a1f84fc601.jpg",
+    "static/media/home-2.jpg": "/real-estate-homes/static/media/home-2.fbdc84a9bc7c112515eb.jpg",
+    "static/media/home-1.jpg": "/real-estate-homes/static/media/home-1.d357c48fa6043c824137.jpg",
+    "static/media/interior-2.jpg": "/real-estate-homes/static/media/interior-2.f3054898a147ccef9fd9.jpg",
+    "static/media/home-5.jpg": "/real-estate-homes/static/media/home-5.0d737bb3e0af36e2b185.jpg",
+    "static/media/home-7.jpg": "/real-estate-homes/static/media/home-7.c6d2a0c3546065e0b13f.jpg",
+    "static/media/home-9.jpg": "/real-estate-homes/static/media/home-9.d8b8c21479bd0d764ad6.jpg",
+    "static/media/home-8.jpg": "/real-estate-homes/static/media/home-8.1a4a18f39be25cc3a009.jpg",
+    "static/media/interior-3.jpg": "/real-estate-homes/static/media/interior-3.35b8d41bebc839e17f8d.jpg",
+    "static/media/interior-1.jpg": "/real-estate-homes/static/media/interior-1.7cc155ebf3c653edf29b.jpg",
+    "index.html": "/real-estate-homes/index.html",
+    "main.b3b33635.js.map": "/real-estate-homes/static/js/main.b3b33635.js.map"
   },
   "entrypoints": [
-    "static/js/main.ee7cdb26.js"
+    "static/js/main.b3b33635.js"
   ]
 }
